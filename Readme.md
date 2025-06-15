@@ -10,8 +10,7 @@
 
 &nbsp;
 
-![SRM](https://upload.wikimedia.org/wikipedia/en/9/9f/SRM_Institute_of_Science_and_Technology_Logo.svg)
-![Coding](https://img.shields.io/badge/Coding-000000?style=flat&logo=code&logoColor=white)
+![Coding](https://img.shields.io/badge/Coding-381994?style=flat&logo=code&logoColor=white)
 ![Gaming](https://img.shields.io/badge/Gaming-9146FF?style=flat&logo=steam&logoColor=white)
 ![Game Design](https://img.shields.io/badge/Game%20Design-FFB700?style=flat&logo=unity&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web%20Development-61DAFB?style=flat&logo=react&logoColor=white)
